@@ -21,6 +21,15 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework 5 days/week.
 - AWS
 - Exam Preparation
 
+# Extra resources
+
+**Note: Github Student Pack requires you to have a student email @unitec.ac.nz**
+
+- [Github Student Pack](https://education.github.com/)
+- [Frontend master - good place to learn Frontend Javascripts React/Vue/Angular](https://frontendmasters.com/)
+- [Markdown guide](https://www.markdownguide.org/)
+- [JetLab PyCharm IDE - can be free if registered with a student email](https://www.jetbrains.com/pycharm/)
+
 # Week 1
 
 ## Core Topics
