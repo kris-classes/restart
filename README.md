@@ -29,6 +29,9 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework 5 days/week.
 - [Frontend master - good place to learn Frontend Javascripts React/Vue/Angular](https://frontendmasters.com/)
 - [Markdown guide](https://www.markdownguide.org/)
 - [JetLab PyCharm IDE - can be free if registered with a student email](https://www.jetbrains.com/pycharm/)
+- [VSCode IDE - free](https://code.visualstudio.com/)
+- [Install Python for Window - always tick Add Python to PATH option](https://www.python.org/downloads/)
+- [Install Python for Mac - best option is to use BREW command line](https://docs.python-guide.org/starting/install3/osx/)
 
 # Week 1
 
