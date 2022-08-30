@@ -45,3 +45,9 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework 5 days/week.
 ## Day 1
 
 ## Day 2
+
+- Python String data type `str`
+- Python Numerics data types `int`, `float`
+- Print to console print()
+- Check type of variable `type(var)`
+
