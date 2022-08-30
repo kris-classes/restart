@@ -3,7 +3,7 @@
 # Admin
 - [Canvas](https://awsrestart.instructure.com/courses/880)
 - Contact the lecturer for Zoom & Discord links.
-- Classes run from 10AM-3PM Mon-Thu and 10AM-2PM Fri.
+- Classes run from 10AM-3PM Mon-Fri
 
 Student Expectations: ~5 hours of lectures and ~3 hours of homework 5 days/week.
 
