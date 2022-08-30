@@ -37,6 +37,7 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework 5 days/week.
 
 ## Core Topics
 
+- Python basics
 - Hardware Basics
 - Virtual Machine Basics
 - Database Concepts
@@ -48,6 +49,6 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework 5 days/week.
 
 - Python String data type `str`
 - Python Numerics data types `int`, `float`
-- Print to console print()
+- Print to console `print()`
 - Check type of variable `type(var)`
 
