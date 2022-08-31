@@ -121,7 +121,9 @@ Symbols
 >= equal to or greater than
 
 
-Other handy stuff
+## Other handy stuff
+Ctrl + C exits play mode
+
 exit()
 to exit the terminal back to runing the script above
 
