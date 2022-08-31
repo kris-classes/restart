@@ -44,11 +44,27 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework 5 days/week.
 - Cloud Service Models (IaaS, PaaS, SaaS, FaaS)
 
 ## Day 1
+- Setting up & browsing GitHub
+- Setting up & using Discord
+- Markdown & [Markdown Tutorial](https://www.markdowntutorial.com/)
 
 ## Day 2
 
-- Python String data type `str`
-- Python Numerics data types `int`, `float`
-- Print to console `print()`
-- Check type of variable `type(var)`
+- Installing VSCode
+- Installing Python
+- Python primitive data types: `int`, `float`, `str`
+- Output with `print()`
+- Input with `input()`
+- Getting `type` of variable with `type(var)`
 
+## Day 3
+- Interpreted vs Compiled Programming Languages
+- Python REPL / Shell
+- [AREPL](https://marketplace.visualstudio.com/items?itemName=almenon.arepl) VSCode Extension
+- Some string functions: .upper(), .lower(), .capitalize(), .split(), etc
+- Lists: Creating, accessing elements, `.append()`, `.pop()`, `.extend()`, `.sort()` (in-place) vs `sorted(my_list)` (copy)
+- Reading code (basics): [aws-cli](https://github.com/aws/aws-cli) - Comments, multi-line comments & docstrings, `import`, `class` (as a concept) 
+- Functions (`def` and `return`), function parameters/arguments
+- "Scope" (variable names can be reused in different functions)
+- Loop basics: `while`, `break` and common gotchas
+- Refactoring (rewriting your code to simplify things)
