@@ -120,3 +120,8 @@ Symbols
 <= equal to or less than
 >= equal to or greater than
 
+
+Other handy stuff
+exit()
+to exit the terminal back to runing the script above
+
