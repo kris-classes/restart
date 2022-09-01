@@ -1,10 +1,10 @@
 # restart - Semester 2 - 2022
 
 # Admin
-- Contact the lecturer for Zoom & Discord links.
-- Classes run from 10AM-3PM Mon-Fri
+- Contact [@krp](https://github.com/krp) or [@mechatroNick](https://github.com/mechatroNick) for Zoom & Discord links.
+- Class runs from 10AM-3PM Mon-Fri. August 29th - November 18th 2022.
 
-Student Expectations: ~5 hours of lectures and ~3 hours of homework 5 days/week.
+Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 
 # Supplementary Videos
 
