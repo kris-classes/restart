@@ -66,7 +66,8 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework 5 days/week.
 ## Day 4
 * Reading and writing files by creating file handles with `open("filename.txt")` in Python
 * New-line characters and line endings.
-* Python's `random` module and randomness with Pseudo-random number generators (PRNGs)
+* Python's `random` module, `seed()`, `random()`, `randint()`, `choice()` and randomness with Pseudo-random number generators (PRNGs)
+* Notable mention: [Debian PRNG bug](https://threatpost.com/how-debian-openssl-bug-almost-spawned-disaster-051809/72669/), [Dual_EC_DRBG Backdoor](https://arstechnica.com/information-technology/2015/01/nsa-official-support-of-backdoored-dual_ec_drbg-was-regrettable/), [Eddie Tipton Hot Lotto RNG Backdoor](https://en.wikipedia.org/wiki/Hot_Lotto_fraud_scandal)
 * Python's `time` module and understanding [Unix Time](https://time.is/Unix_time) (`time.time()` and `time.sleep(5)`. 
 * Installing libraries with `pip` and the [Python Package Index](https://pypi.org/)
 * Using the `requests` module (installed with `pip install requests`) to make web requests using Python.
@@ -80,3 +81,6 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework 5 days/week.
 ## Day 5
 
 * Python String Formatting
+* Debugging
+* Dictionaries
+* Sets
