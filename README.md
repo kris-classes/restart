@@ -62,6 +62,7 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 - Loop basics: `while`, `break` and common gotchas
 - Refactoring (rewriting your code to simplify things)
 - [@krp/python-examples](https://github.com/krp/python-examples)
+- Supplementary: [The Coding Train - What was coding like 40 years ago?](https://www.youtube.com/watch?v=7r83N3c2kPw)
 
 ## Day 4
 * Reading and writing files by creating file handles with `open("filename.txt")` in Python
@@ -81,6 +82,8 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 ## Day 5
 
 * Python String Formatting
+* More looping
 * Debugging
+* FizzBuzz
 * Dictionaries
 * Sets
