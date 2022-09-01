@@ -61,3 +61,22 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework 5 days/week.
 - "Scope" (variable names can be reused in different functions)
 - Loop basics: `while`, `break` and common gotchas
 - Refactoring (rewriting your code to simplify things)
+- [@krp/python-examples](https://github.com/krp/python-examples)
+
+## Day 4
+* Reading and writing files by creating file handles with `open("filename.txt")` in Python
+* New-line characters and line endings.
+* Python's `random` module and randomness with Pseudo-random number generators (PRNGs)
+* Python's `time` module and understanding [Unix Time](https://time.is/Unix_time) (`time.time()` and `time.sleep(5)`. 
+* Installing libraries with `pip` and the [Python Package Index](https://pypi.org/)
+* Using the `requests` module (installed with `pip install requests`) to make web requests using Python.
+* [Python Module Of The Week - PyMOTW](https://pymotw.com/3/)
+* [GitHub: @vinta/awesome-python](https://github.com/vinta/awesome-python)
+* Directory navigation with `pwd`, `cd`, `ls` and gotchas around it.
+* [Pyxel library](https://github.com/kitao/pyxel) - Great for learning Python
+* [@kris-classes/pyxel-snippets](https://github.com/kris-classes/pyxel-snippets/) - Collection of simple snippets for learning to code with Python & pyxel
+
+
+## Day 5
+
+* Python String Formatting
