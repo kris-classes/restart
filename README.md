@@ -83,7 +83,7 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 
 * Python String Formatting
 * More looping
-* Debugging
-* FizzBuzz
-* Dictionaries
-* Sets
+* [Debugging in VSCode](https://code.visualstudio.com/Docs/editor/debugging)
+* Dictionaries, Sets, Tuples
+* [PyQt Examples for Graphical User Interfaces (GUIs)](https://github.com/pyqt/examples)
+* [More Python examples](https://github.com/geekcomputers/Python)
