@@ -89,11 +89,16 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * [More Python examples](https://github.com/geekcomputers/Python)
 
 
-# Week 1
+# Week 2
 
-## Core Topics
+## Day 1
+* AWS Console Basics & EC2 instance types
+* [AWS Pricing Calculator](https://calculator.aws)
+* More Looping & `in` keyword
+* Stack & Queue concepts
 
-## Day 1 (planned)
+
+## Day X (planned)
 
 * Revise Lists, Tuples, Sets
   * List maintains order + mutable
