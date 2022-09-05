@@ -93,6 +93,8 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 
 ## Day 1
 * AWS Console Basics & EC2 instance types
+  * Regions, Avaiability Zones, Data Centers, Latency
+  * Different pricing models for EC2: on-demand, spot, reserve
 * [AWS Pricing Calculator](https://calculator.aws)
 * More Looping & `in` keyword
 * Stack & Queue concepts
@@ -115,9 +117,6 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
   * For item in range(x)
   * For item, index in List, Set, or Tuple
 * While loop
-
-## Day 2 (planned)
-
 * List comprehension
 * More dictionary
 * Complex types
