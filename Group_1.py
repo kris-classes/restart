@@ -3,20 +3,24 @@
 # To-do: make the input invalid print statement re-loop.
 
 print("Welcome to the Super Calculator!!")
-first_num = float(input('Please enter your first number: '))
-print(first_num)
-second_num = float(input('Please enter your second number: '))
-print(second_num)
-operation = str(input('Input one of the following; +, -, * or /?: '))
 
-if operation == '+':
-    print(first_num + second_num)
-elif operation == '-':
-    print(first_num - second_num)
-elif operation == '*':
-    print(first_num * second_num)
-elif operation == '/':
-    print(first_num / second_num)
-else:
-    print('Input invalid, please select one of the following symbols: +, -, * or /')
-    # please finish the code.. gl!
+def calculator():
+    first_num = float(input('Please enter your first number: '))
+    print(first_num)
+    second_num = float(input('Please enter your second number: '))
+    print(second_num)
+    operation = str(input('Input one of the following; +, -, * or /?: '))
+    if operation == '+':
+        print(first_num + second_num)
+    elif operation == '-':
+        print(first_num - second_num)
+    elif operation == '*':
+        print(first_num * second_num)
+    elif operation == '/':
+        print(first_num / second_num)
+    else:
+        print('Input invalid, please select one of the following symbols: +, -, * or /')
+        calculator()
+
+while True:
+    calculator()
