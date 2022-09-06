@@ -100,22 +100,28 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Stack & Queue concepts
 
 
-## Day X (planned)
+## Day 2
 
 * Revise Lists, Tuples, Sets
   * List maintains order + mutable
   * Tuples maintains order + immutable
   * Sets does not maintain order + mutable + item uniqueness
+* Dictionaries
+* For loop
+  * For item in List, Set, or Tuple
+  * For key, value in Dictionary
+
+## Day X (planned)
+
 * Common manipulation
   * Find unique within Lists -> Convert List to Sets `set(my_list)`
   * Find intersection between 2 Lists -> use Sets intersection `list(set(list1).intersection(list2))`
   * Find only unique items in 2 Lists -> Use Sets symmetric difference `list(set(x).symmetric_difference(set(f)))`
 * Flow control
   * if, else, elif
-* For loop
-  * For item in List, Set, or Tuple
-  * For item in range(x)
+* For loop - more
   * For item, index in List, Set, or Tuple
+  * For item in range(x)
 * While loop
 * List comprehension
 * More dictionary
