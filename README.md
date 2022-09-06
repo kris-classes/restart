@@ -83,7 +83,45 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 
 * Python String Formatting
 * More looping
-* Debugging
-* FizzBuzz
-* Dictionaries
-* Sets
+* [Debugging in VSCode](https://code.visualstudio.com/Docs/editor/debugging)
+* Dictionaries, Sets, Tuples
+* [PyQt Examples for Graphical User Interfaces (GUIs)](https://github.com/pyqt/examples)
+* [More Python examples](https://github.com/geekcomputers/Python)
+
+
+# Week 2
+
+## Day 1
+* AWS Console Basics & EC2 instance types
+  * Regions, Availability Zones, Data Centers, Latency
+  * Different pricing models for EC2: on-demand, spot, reserve
+* [AWS Pricing Calculator](https://calculator.aws)
+* More Looping & `in` keyword
+* Stack & Queue concepts
+
+
+## Day X (planned)
+
+* Revise Lists, Tuples, Sets
+  * List maintains order + mutable
+  * Tuples maintains order + immutable
+  * Sets does not maintain order + mutable + item uniqueness
+* Common manipulation
+  * Find unique within Lists -> Convert List to Sets `set(my_list)`
+  * Find intersection between 2 Lists -> use Sets intersection `list(set(list1).intersection(list2))`
+  * Find only unique items in 2 Lists -> Use Sets symmetric difference `list(set(x).symmetric_difference(set(f)))`
+* Flow control
+  * if, else, elif
+* For loop
+  * For item in List, Set, or Tuple
+  * For item in range(x)
+  * For item, index in List, Set, or Tuple
+* While loop
+* List comprehension
+* More dictionary
+* Complex types
+  * Dict of List
+  * List of Dict
+* JSON
+* Dict vs. JSON
+
