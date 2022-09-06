@@ -1,10 +1,22 @@
 # We are creating a calculator app that currently adds up two numbers "floats" that the user inputs
 # and sums them up. Then it displays the sum.
-# To-do, add other operation functions! Also ask user what operation they would like to do?
-print("Calculator App...")
-print("Lets add two numbers together!")
-var_x = float(input("Type first number to be added..."))
+# To-do: make the input invalid print statement re-loop.
 
-var_y = float(input("Type second number to be added..."))
-var_result = var_x + var_y
-print(f"Your sum of {var_x} and {var_y} is {var_result}!")
+print("Welcome to the Super Calculator!!")
+first_num = float(input('Please enter your first number: '))
+print(first_num)
+second_num = float(input('Please enter your second number: '))
+print(second_num)
+operation = str(input('Input one of the following; +, -, * or /?: '))
+
+if operation == '+':
+    print(first_num + second_num)
+elif operation == '-':
+    print(first_num - second_num)
+elif operation == '*':
+    print(first_num * second_num)
+elif operation == '/':
+    print(first_num / second_num)
+else:
+    print('Input invalid, please select one of the following symbols: +, -, * or /')
+    # please finish the code.. gl!
