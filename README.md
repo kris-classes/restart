@@ -104,3 +104,11 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * More Looping, Lists, Dictionaries, Iterators (concept)
 * CSV files
 * Project group exercises
+
+## Day 3
+* Sets
+* More functions
+* Hardware: CPU, RAM/Memory, Storage, GPUs, Cores, Threads
+
+## Day 4
+* Linux
