@@ -106,8 +106,8 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Project group exercises
 
 ## Day 3
-* Sets
-* More functions
+* Sets - `union &`, `intersection |`
+* More functions - no variable, default value, *arg, **kwargs
 * Hardware: CPU, RAM/Memory, Storage, GPUs, Cores, Threads
 * [CPU-Z (Windows)](https://www.cpuid.com/softwares/cpu-z.html)
 * Supplementary: [UserBenchmark.com](https://www.userbenchmark.com))
