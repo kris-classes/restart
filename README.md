@@ -109,6 +109,10 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Sets
 * More functions
 * Hardware: CPU, RAM/Memory, Storage, GPUs, Cores, Threads
+* [CPU-Z (Windows)](https://www.cpuid.com/softwares/cpu-z.html)
+* Supplementary: [UserBenchmark.com](https://www.userbenchmark.com))
 
 ## Day 4
 * Linux
+* [LinuxJourney.com](https://linuxjourney.com/)
+* [Linux Filesystem Hierarchy Standard](https://www.linuxfordevices.com/tutorials/linux/linux-filesystem-hierarchy)
