@@ -118,3 +118,9 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * [Linux Filesystem Hierarchy Standard](https://www.linuxfordevices.com/tutorials/linux/linux-filesystem-hierarchy)
 * ssh
 * [Windows 11 permission issues with SSH private keys](https://superuser.com/questions/1296024/windows-ssh-permissions-for-private-key-are-too-open)
+
+## Day 5
+* Symmetric vs Asymmetric Key Cryptography (basics)
+* More Linux
+* Building programs from source code
+* Permissions
