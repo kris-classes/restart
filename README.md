@@ -137,3 +137,4 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Directory & File permissions.
 * Hashbang: `#!`
 * PATH
+* `strace`
