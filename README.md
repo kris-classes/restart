@@ -128,3 +128,12 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * More Linux
 * Building programs from source code
 * Permissions
+
+# Week 3
+
+## Day 1
+* Shells (configuring, aliases, differences, some history)
+* Creating our own with Python's `os` module.
+* Directory & File permissions.
+* Hashbang: `#!`
+* PATH
