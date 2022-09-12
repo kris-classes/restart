@@ -1,5 +1,9 @@
 # restart - Semester 2 - 2022
 
+# Previous Courses
+* [Semester 1 2022](https://github.com/kris-classes/restart-s1-2022)
+* [Summer School 2021](https://github.com/kris-classes/restart-ss-2021)
+
 # Admin
 - Contact [@krp](https://github.com/krp) or [@mechatroNick](https://github.com/mechatroNick) for Zoom & Discord links.
 - Class runs from 10AM-3PM Mon-Fri. August 29th - November 18th 2022.
