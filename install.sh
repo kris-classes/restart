@@ -13,10 +13,10 @@
 
 # echo jq installed | cowsay
 
-for package in cowsay jq tmux git
+for package in cowsay jq tmux git epel sl
 do
-	sudo yum install -y $package
- 	echo $package was installed | cowsay
+        sudo yum install $package
+        echo $package was installed | cowsay
 done
 
 # Install rust
