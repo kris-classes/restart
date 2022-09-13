@@ -13,7 +13,7 @@
 
 # echo jq installed | cowsay
 
-for package in cowsay jq tmux git epel sl
+for package in cowsay jq tmux git epel sl tldr
 do
         sudo yum install $package
         echo $package was installed | cowsay
