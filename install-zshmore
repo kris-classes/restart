@@ -1,6 +1,9 @@
 #!/bin/bash
 # automate the installation of packages
 
+# copy and paste below into command line to run
+#curl https://raw.githubusercontent.com/kris-classes/restart/main/install-zshmore | sh
+
 #install apel
 sudo amazon-linux-extras install epel
 
