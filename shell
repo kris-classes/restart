@@ -1,0 +1,16 @@
+#this is a terminal program to show a list of files
+import os
+print("Welcome to our terminal program")
+while 1:
+        cmd = input("$ ")
+        if cmd == "quit":
+                quit()
+        if cmd == "ls":
+                print(os.listdir())
+        if cmd ==  "ls raw":
+                print(os.popen("ls").read())
+        if cmd == "create new folder":
+                foler_name = input("what is your folder name?")
+                os.popen("mkdir " +str(folder_name))
+else:
+                print("command not understood")
