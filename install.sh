@@ -18,3 +18,6 @@ do
 	sudo yum install -y $package
  	echo $package was installed | cowsay
 done
+
+# Install rust
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
