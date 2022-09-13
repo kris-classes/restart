@@ -17,6 +17,9 @@ done
 #install tldr
 sudo pip3 install tldr
 
+#install thefuck
+#sudo pip3 install thefuck
+
 #install rust, with automated Y for default
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs > installrust.sh
 chmod +x installrust.sh
