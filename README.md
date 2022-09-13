@@ -128,13 +128,27 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * More Linux
 * Building programs from source code
 * Permissions
+* Supplemental: [History of Unix](https://en.wikipedia.org/wiki/History_of_Unix)
 
 # Week 3
 
 ## Day 1
-* Shells (configuring, aliases, differences, some history)
+* Shells (configuring, aliases, differences, some history, different shells)
 * Creating our own with Python's `os` module.
 * Directory & File permissions.
 * Hashbang: `#!`
 * PATH
 * `strace`
+
+
+## Day 2
+* [DistroWatch](https://distrowatch.com/), [GNU](https://en.wikipedia.org/wiki/GNU), [FSF](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+* More on OS internals (protected mode, drivers, monolithic vs microkernel, kernelspace/userspace (ring0/ring3 on Linux)
+* stdin, stdout, stderr & file redirection
+* Piping, `env` & environment variables 
+* `sl`, `cowsay`, `jq`, `grep`, `wc`, `tr`, `sort`
+* Interacting with APIs using `curl`
+* [Modern Unix Utilities](https://github.com/ibraheemdev/modern-unix)
+* Bash scripting basics & automating installation
+* `sudo amazon-linux-extras install epel`
+* Supplementary: Some other utils/tools/libs mentioned by students: `gtop`, `sherlock`, `gping`, `tldr`, `chalk`, `fig`, `zsh-autosuggestions`, [Scott Hanselman - Microsoft Terminal](https://www.youtube.com/watch?v=FC-gLkYWXLw), `neofetch`, `pi-hole`, `hoppscotch`, `jsonhero-web`, `shellcheck`, `click`, `beets`, `n8n`, `bubbletea`, `fork-cleaner`, `spicetify-cli`, `social-analyzer`
