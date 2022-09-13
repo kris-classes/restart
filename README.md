@@ -151,4 +151,4 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * [Modern Unix Utilities](https://github.com/ibraheemdev/modern-unix)
 * Bash scripting basics & automating installation
 * `sudo amazon-linux-extras install epel`
-* Supplementary: Some other utils/tools/libs mentioned by students: `gtop`, `sherlock`, `gping`, `tldr`, `chalk`, `fig`, `zsh-autosuggestions`, [Scott Hanselman - Microsoft Terminal](https://www.youtube.com/watch?v=FC-gLkYWXLw), `neofetch`, `pi-hole`, `hoppscotch`, `jsonhero-web`, `shellcheck`, `click`, `beets`, `n8n`, `bubbletea`, `fork-cleaner`, `spicetify-cli`, `social-analyzer`
+* Supplementary: Some other utils/tools/libs mentioned by learners: `gtop`, `sherlock`, `gping`, `tldr`, `chalk`, `fig`, `zsh-autosuggestions`, [Scott Hanselman - Microsoft Terminal](https://www.youtube.com/watch?v=FC-gLkYWXLw), `neofetch`, `pi-hole`, `hoppscotch`, `jsonhero-web`, `shellcheck`, `click`, `beets`, `n8n`, `bubbletea`, `fork-cleaner`, `spicetify-cli`, `social-analyzer`
