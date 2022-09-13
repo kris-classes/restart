@@ -8,7 +8,7 @@
 sudo amazon-linux-extras install epel
 
 #install packages
-for package in cowsay zsh jq tmux epel sl tldr gcc util-linux-user git
+for package in cowsay zsh jq epel sl tldr gcc util-linux-user git automake libevent-devel bison ncurses-devel
 do
 	sudo yum install -y  $package
 	echo $package was installed | cowsay
@@ -32,5 +32,19 @@ echo retrieved .zshrc | cowsay
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 echo zsh-autosuggestions was installed | cowsay
 
-#change to zsh
+#install tmux
+git clone https://github.com/tmux/tmux.git
+cd tmux
+./configure
+make
+sudo make install
+
+#install ohmytmux
+cd $HOME
+git clone https://github.com/gpakosz/.tmux.git
+ln -s -f .tmux/.tmux.conf
+cp .tmux/.tmux.conf.local .
+
+#change shell into zsh
+sudo chsh -s $(which zsh) $(whoami)
 zsh
