@@ -7,8 +7,8 @@ sudo amazon-linux-extras install epel
 #install packages
 for package in cowsay zsh jq tmux epel sl tldr gcc
 do
-  	sudo yum install -y  $package
-        echo $package was installed | cowsay
+	sudo yum install -y  $package
+	echo $package was installed | cowsay
 done
 
 #install rust, with automated Y for default
@@ -18,7 +18,7 @@ chmod +x installrust.sh
 echo Rust was installed | cowsay
 
 #install ohmyzsh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.$
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 echo ohmyzsh was installed | cowsay
 
 #get .zshrc file
@@ -26,5 +26,5 @@ curl https://raw.githubusercontent.com/kris-classes/restart/main/tia_zshrc > $HO
 echo retrieved .zshrc | cowsay
 
 #install zsh-autosuggestions
-git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custo$
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 echo zsh-autosuggestions was installed | cowsay
