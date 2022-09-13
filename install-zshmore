@@ -28,3 +28,6 @@ echo retrieved .zshrc | cowsay
 #install zsh-autosuggestions
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 echo zsh-autosuggestions was installed | cowsay
+
+#change to zsh
+zsh
