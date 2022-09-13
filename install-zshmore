@@ -41,6 +41,7 @@ echo zsh-autosuggestions was installed | cowsay
 #install tmux
 git clone https://github.com/tmux/tmux.git
 cd tmux
+sh autogen.sh
 ./configure
 make
 sudo make install
