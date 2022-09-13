@@ -8,11 +8,14 @@
 sudo amazon-linux-extras install epel
 
 #install packages
-for package in cowsay zsh jq epel sl tldr gcc util-linux-user git automake libevent-devel bison ncurses-devel
+for package in cowsay zsh jq sl gcc util-linux-user git automake libevent-devel bison ncurses-devel
 do
 	sudo yum install -y  $package
 	echo $package was installed | cowsay
 done
+
+#install tldr
+sudo pip3 install tldr
 
 #install rust, with automated Y for default
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs > installrust.sh
