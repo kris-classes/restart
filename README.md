@@ -152,3 +152,15 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Bash scripting basics & automating installation
 * `sudo amazon-linux-extras install epel`
 * Supplementary: Some other utils/tools/libs mentioned by learners: `gtop`, `sherlock`, `gping`, `tldr`, `chalk`, `fig`, `zsh-autosuggestions`, [Scott Hanselman - Microsoft Terminal](https://www.youtube.com/watch?v=FC-gLkYWXLw), `neofetch`, `pi-hole`, `hoppscotch`, `jsonhero-web`, `shellcheck`, `click`, `beets`, `n8n`, `bubbletea`, `fork-cleaner`, `spicetify-cli`, `social-analyzer`
+
+## Day 3
+* [Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+* Job Control: `Ctrl-Z`, `jobs`, `bg`, `fg`, `&`, `kill`, `head`, `tail
+* Logging & /var/log/secure (SSH log on Amazon Linux)
+* try/except & error handling basics in Python
+* Managing Users Basics: `adduser`, `passwd`, `chown`, `chgrp`
+* Python: classes: (methods, self) yield, generators
+* `w`, `curl ifconfig.me`
+* Basics of HTTPs, CAs, Chain of Trust
+* Endianness (concept)
+
