@@ -26,6 +26,11 @@ chmod +x installrust.sh
 ./installrust.sh -y
 echo Rust was installed | cowsay
 
+#install broot
+mkdir $HOME/bin
+curl https://dystroy.org/broot/download/x86_64-unknown-linux-gnu/broot > $HOME/bin/broot
+chmod +x $HOME/bin/broot
+
 #install ohmyzsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 echo ohmyzsh was installed | cowsay
