@@ -2,7 +2,7 @@
 # automate the installation of packages
 
 # copy and paste below into command line to run
-#curl https://raw.githubusercontent.com/kris-classes/restart/main/install-zshmore | sh
+# sh -c "$(curl https://raw.githubusercontent.com/kris-classes/restart/main/install-zshmore)"
 
 #install apel
 sudo amazon-linux-extras install epel
@@ -57,6 +57,6 @@ git clone https://github.com/gpakosz/.tmux.git
 ln -s -f .tmux/.tmux.conf
 cp .tmux/.tmux.conf.local .
 
-#change shell into zsh
+# This is changing the default shell to zsh.
 sudo chsh -s $(which zsh) $(whoami)
-zsh
+exec zsh -l
