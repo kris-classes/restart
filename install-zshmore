@@ -2,7 +2,7 @@
 # automate the installation of packages
 
 # copy and paste below into command line to run
-#curl https://raw.githubusercontent.com/kris-classes/restart/main/install-zshmore | sh
+#curl https://raw.githubusercontent.com/kris-classes/restart/main/install-zshmore | sh && exec zsh -l
 
 
 ##TODO: fix bug (below)
