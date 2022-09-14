@@ -101,3 +101,15 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias i="sudo yum install"
+alias l="ls -al"
+alias ..="cd .."
+alias home=pwd
+alias enf=". ~/.bashrc"
+alias cls="clear"
+alias e="echo"
+alias na="nano"
+alias c="curl"
+alias mk="mkdir"
+alias t="touch"
+alias cudo="chmod ugo+rwx"
