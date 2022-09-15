@@ -1,17 +1,17 @@
 #!/bin/bash
 # The purpose of this program is to auto install package on the aws virtual machine
-# To install, run this: curl -s https://raw.githubusercontent.com/Bugsbugme/unitec-aws-restart/main/aws_vm_initscript.sh | sh && exec zsh -l
+# To install, run this: curl -s https://raw.githubusercontent.com/kris-classes/restart/main/aws_vm_initscript.sh | sh && exec zsh -l
 
-# Setting color variables.
+# This is setting the color variables.
 GREEN="\033[0;32m"
 NC="\033[0m"
 
-# Installing the cowsay package.
+# This is installing the cowsay package.
 echo -e "\n[Installing cowsay...]\n"
 sudo yum install cowsay -y && echo -e "${GREEN}Installed cowsay${NC}" | cowsay
 echo
 
-# Installing the epel repository.
+# This is installing the epel repository.
 echo Installing epel... | cowsay
 echo
 sudo amazon-linux-extras install epel && echo -e "\n${GREEN}[Installed epel]${NC}\n"
@@ -51,7 +51,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/z
 sudo chsh -s $(which zsh) $(whoami)
 echo
 
-# Installing tldr.
+# This is installing the tldr package.
 echo Installing tldr... | cowsay
 echo
 sudo pip3 install tldr && echo -e "\n${GREEN}[Installed tldr]${NC}\n"
