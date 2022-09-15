@@ -7,7 +7,7 @@ echo "Enter the AWS EC2 virtual machine IP Address:"
 read varip
 echo
 echo "After connecting, run the the following command:"
-echo "curl -s https://raw.githubusercontent.com/Bugsbugme/unitec-aws-restart/main/aws_vm_initscript.sh | sh && exec zsh -l"
+echo "curl -s https://raw.githubusercontent.com/kris-classes/restart/main/aws_vm_initscript.sh | sh && exec zsh -l"
 echo
 echo "Connecting..."
 echo
