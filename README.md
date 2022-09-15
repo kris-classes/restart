@@ -164,3 +164,15 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Basics of HTTPs, CAs, Chain of Trust
 * Endianness (concept)
 
+
+## Day 4
+* Programming Paradigms
+* Concurrency Basics
+* Regular Expressions
+* Navigating StackOverflow & StackExchange platform
+* Group exercise: Complete overview of Linux filesystem & important files across it
+
+
+## Day 5
+* /proc, /dev, package manager repositories
+* Networking Basics: IPv4, Ports, TCP, UDP, netcat
