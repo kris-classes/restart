@@ -26,7 +26,7 @@ done
 
 # This is installing ohmyzsh.
 echo Installing ohmyzsh... | cowsay
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" && echo -e "\n${GREEN}[Installed ohmyzsh]${NC}\n"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended && echo -e "\n${GREEN}[Installed ohmyzsh]${NC}\n"
 
 # Downloading the .zshrc file from the github repository and placing it in the home directory.
 echo Fetching zshrc config... | cowsay
@@ -46,6 +46,11 @@ ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/the
 echo Installing zsh-autosuggestions... | cowsay
 echo
 git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions && echo -e "\n${GREEN}[Installed zsh-autosuggestions]${NC}\n"
+
+# This is installing the zsh-syntax-highlighting plugin.
+echo Installing zsh-syntax-highlighting... | cowsay
+echo
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting && echo -e "\n${GREEN}[Installed zsh-syntax-highlighting]${NC}\n"
 
 # This is changing the default shell to zsh.
 sudo chsh -s $(which zsh) $(whoami)
