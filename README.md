@@ -174,5 +174,6 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 
 
 ## Day 5
-* /proc, /dev, package manager repositories
-* Networking Basics: IPv4, Ports, TCP, UDP, netcat
+* Networking Basics: IPv4, Ports, DNS (A and CNAME records)
+* `dig`, `whois`, `nc`
+* Supplementary: [Spreeder - Improving reading speed](https://www.spreeder.com/app.php), [KeyBR - Improving typing speed](https://www.keybr.com/), [Illegal Numbers](https://en.wikipedia.org/wiki/Illegal_number), [Regional Internet Registry](https://en.wikipedia.org/wiki/Regional_Internet_registry)
