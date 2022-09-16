@@ -15,7 +15,7 @@
 sudo amazon-linux-extras install epel
 
 #install packages
-for package in cowsay zsh jq sl gcc util-linux-user git automake libevent-devel bison ncurses-devel htop
+for package in cowsay zsh jq sl gcc util-linux-user git automake libevent-devel bison ncurses-devel htop whois
 do
 	sudo yum install -y  $package
 	echo $package was installed | cowsay
