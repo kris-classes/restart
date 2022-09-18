@@ -26,7 +26,7 @@ done
 
 # This is installing ohmyzsh.
 echo Installing ohmyzsh... | cowsay
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended && echo -e "\n${GREEN}[Installed ohmyzsh]${NC}\n"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" && echo -e "\n${GREEN}[Installed ohmyzsh]${NC}\n"
 
 # Downloading the .zshrc file from the github repository and placing it in the home directory.
 echo Fetching zshrc config... | cowsay
@@ -52,10 +52,6 @@ echo Installing zsh-syntax-highlighting... | cowsay
 echo
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting && echo -e "\n${GREEN}[Installed zsh-syntax-highlighting]${NC}\n"
 
-# This is changing the default shell to zsh.
-sudo chsh -s $(which zsh) $(whoami)
-echo
-
 # This is installing the tldr package.
 echo Installing tldr... | cowsay
 echo
@@ -79,8 +75,8 @@ broot --install && echo -e "\n${GREEN}[Installed broot]${NC}\n"
 # This is installing tmux.
 echo Installing tmux... | cowsay
 echo
-git clone https://github.com/tmux/tmux.git
-cd tmux
+git clone https://github.com/tmux/tmux.git $HOME/bin/tmux
+cd $HOME/bin/tmux
 sh autogen.sh
 ./configure
 make
@@ -89,10 +85,15 @@ sudo make install && echo -e "\n${GREEN}[Installed tmux]${NC}\n"
 # This is installing ohmytmux.
 echo Installing ohmytmux... | cowsay
 echo
+git clone https://github.com/gpakosz/.tmux.git $HOME/bin/oh-my-tmux
+ln -s -f $HOME/bin/oh-my-tmux/.tmux.conf ~/.tmux.conf
+cp $HOME/bin/oh-my-tmux/.tmux.conf.local ~/.tmux.conf.local && echo -e "\n${GREEN}[Installed ohmytmux]${NC}\n"
+
+# This is changing the default shell to zsh.
 cd $HOME
-git clone https://github.com/gpakosz/.tmux.git
-ln -s -f .tmux/.tmux.conf
-cp .tmux/.tmux.conf.local . && echo -e "\n${GREEN}[Installed ohmytmux]${NC}\n"
+sudo chsh -s $(which zsh)
+sudo chsh -s $(which zsh) $(whoami)
+echo
 
 echo -e "${GREEN}Initialization complete, entering zsh...${NC}" | cowsay
 echo
