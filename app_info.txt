@@ -1,0 +1,68 @@
+# app for basketball tracking
+
+problem: create an application to organize basketball tournament(s) (solve team inbalances)
+obstacle: requirement gathering (necessary data), data modeling (what data to collect)
+
+1. record stats of players, to show their overall skill level (average)
+
+2. create teams generated on best > worse players
+
+3. track stats over the entire duration (8 weeks)
+
+4. at the end of the 8 weeks, it will create new teams based on overall player stats
+
+stats tracked: point average, assist, blocks, rebounds, penaltys / fouls, steals, time played, games played
+
+tournament:
+	
+	a tournament is a collection of match / games.
+	has rankings
+	has duration
+	has referees
+	has sponsors
+	has teams
+	
+team:
+	
+	team is a collection of players
+	has coaches
+	has team name
+	has manager
+	has mascot
+	has sponsors
+	has HR
+	has a home court
+	
+player:
+
+	- height
+	- ape factor
+	
+court:
+	
+	a ground which is divided into two seperate halves (TODO: come back to this)
+	
+location:
+
+	
+	
+
+basic terminology:
+
+	dribble: any time the ball is bounced on the ground
+	shot: when the ball is thrown towards the hoop to try and score points
+	foul: any time a player breaks a rule of the game 
+	penalty: a time in which the game is halted due to a player fouling and a team is allowed to take free shots as conpensation
+	pass: when one play throws the ball to a team mate
+	assist: any time a pass to another player directly helps them score
+	blocks: when a player stops the other teams shot with their hand from scoring
+	rebounds: when a player collects the ball after a failed shot
+	steal: when a player legally takes possession of the ball from another player
+
+person:
+
+	- height
+	- weight
+	- sponsors
+
+(optional) weekly reports of mvp, and most improved stat over the week.
