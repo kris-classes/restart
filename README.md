@@ -187,3 +187,4 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * `fastapi` and `uvicorn` basics
 * Basics of project scoping, requirements gathering, data modeling basics
 * Supplementary: [Billion laughs attack](https://en.wikipedia.org/wiki/Billion_laughs_attack) - Bug with deserialization
+* [Architecture of Open Source Applications (AOSA Books)](http://www.aosabook.org/)
