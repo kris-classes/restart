@@ -177,3 +177,13 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Networking Basics: IPv4, Ports, DNS (A and CNAME records)
 * `dig`, `whois`, `nc`
 * Supplementary: [Spreeder - Improving reading speed](https://www.spreeder.com/app.php), [KeyBR - Improving typing speed](https://www.keybr.com/), [Illegal Numbers](https://en.wikipedia.org/wiki/Illegal_number), [Regional Internet Registry](https://en.wikipedia.org/wiki/Regional_Internet_registry)
+
+
+# Week 4
+## Day 1
+* Python modules, JSON basics
+* Exceptions
+* Python's `with` keyword (context manager concept)
+* `fastapi` and `uvicorn` basics
+* Basics of project scoping, requirements gathering, data modeling basics
+* Supplementary: [Billion laughs attack](https://en.wikipedia.org/wiki/Billion_laughs_attack) - Bug with deserialization
