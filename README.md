@@ -201,16 +201,17 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 
 # Concepts book - to be covered
 
-# AWS related
+## AWS related
 
 * What is IaaS/PaaS/SaaS? 
 * Block storage, file storage and object storage
 * CDN
 
-# Others
+## Others
 
 * VMs vs. Containerization
 * Globally Unique IDs
 * Process vs. Thread
 * Software deployment strategies
 * Design secure APIs
+* DB Caching
