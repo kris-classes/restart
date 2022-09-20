@@ -194,4 +194,23 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Interfaces & interacting with [APIs](https://github.com/public-apis/public-apis)
 * User Agents, robots.txt
 * Using Python decorators with `fastapi`
-* Public vs Private IP addresses, Loopback Interface/Localhost, Port Scanning, 
+* Public vs Private IP addresses, Loopback Interface/Localhost, Port Scanning 
+
+## Day 3
+* REST, TCP vs. UDP
+
+# Concepts book - to be covered
+
+# AWS related
+
+* What is IaaS/PaaS/SaaS? 
+* Block storage, file storage and object storage
+* CDN
+
+# Others
+
+* VMs vs. Containerization
+* Globally Unique IDs
+* Process vs. Thread
+* Software deployment strategies
+* Design secure APIs
