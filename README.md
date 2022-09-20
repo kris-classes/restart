@@ -188,3 +188,10 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Basics of project scoping, requirements gathering, data modeling basics
 * Supplementary: [Billion laughs attack](https://en.wikipedia.org/wiki/Billion_laughs_attack) - Bug with deserialization
 * [Architecture of Open Source Applications (AOSA Books)](http://www.aosabook.org/)
+
+## Day 2
+* Python's `http.server` and `pydoc` modules
+* Interfaces & interacting with [APIs](https://github.com/public-apis/public-apis)
+* User Agents, robots.txt
+* Using Python decorators with `fastapi`
+* Public vs Private IP addresses, Loopback Interface/Localhost, Port Scanning, 
