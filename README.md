@@ -197,16 +197,17 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Public vs Private IP addresses, Loopback Interface/Localhost, Port Scanning 
 
 ## Day 3
-* REST, TCP vs. UDP
+* TCP, UDP
+* RFC's
+* Wireless Networking & WiFi
 
-# Concepts book - to be covered
-
-## AWS related
-
+# Nick TBD
+## Day 4
 * What is IaaS/PaaS/SaaS? 
 * Block storage, file storage and object storage
 * CDN
 
+# Concepts book - to be covered
 ## Others
 
 * VMs vs. Containerization
