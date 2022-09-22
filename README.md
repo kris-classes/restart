@@ -192,7 +192,7 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 ## Day 2
 * Python's `http.server` and `pydoc` modules
 * Interfaces & interacting with [APIs](https://github.com/public-apis/public-apis)
-* User Agents, robots.txt
+* User Agents, robots.txt, `Host:` header
 * Using Python decorators with `fastapi`
 * Public vs Private IP addresses, Loopback Interface/Localhost, Port Scanning 
 
@@ -201,15 +201,27 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * RFC's
 * Wireless Networking & WiFi
 
-# Nick TBD
 ## Day 4
+* Network Topology
+* OSI Model, TCP/IP Model
+* Ethernet, [MAC Addresses](https://en.wikipedia.org/wiki/MAC_address), [MAC Spoofing](https://en.wikipedia.org/wiki/MAC_spoofing)
+* Wireshark basics
+* Hexadecimal basics
+
+## Day 5
+* Binary, Hex, Subnetting
+* Revision
+
+
+
+
+# Nick TBD
 * What is IaaS/PaaS/SaaS? 
 * Block storage, file storage and object storage
 * CDN
 
 # Concepts book - to be covered
 ## Others
-
 * VMs vs. Containerization
 * Globally Unique IDs
 * Process vs. Thread
