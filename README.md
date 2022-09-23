@@ -209,9 +209,14 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Hexadecimal basics
 
 ## Day 5
+* Revision & More on Python Classes
+
+# Week 5
+## No class on Monday - Public Holiday
+
+## Day 1
 * Binary, Hex, Subnetting
 * Revision
-
 
 
 
