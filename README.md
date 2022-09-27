@@ -215,8 +215,13 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 ## No class on Monday - Public Holiday
 
 ## Day 1
-* Binary, Hex, Subnetting
-* Revision
+* Hashing Basics
+* VirusTotal
+* Brute-forcing & probabilities
+* CRUD applications
+
+## Day 2
+* Password storage basics
 
 
 
