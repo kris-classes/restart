@@ -221,8 +221,8 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * CRUD applications
 
 ## Day 2
-* Password storage basics
-
+* Cybersecurity: [ExploitDB](https://www.exploit-db.com/), [GHDB](https://www.exploit-db.com/google-hacking-database), [ATT&CK](https://attack.mitre.org/), [D3FEND](https://d3fend.mitre.org/about/), [OWASP Top 10](https://owasp.org/Top10/)
+* Scraping
 
 
 # Nick TBD
