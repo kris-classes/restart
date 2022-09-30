@@ -224,6 +224,17 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Cybersecurity: [ExploitDB](https://www.exploit-db.com/), [GHDB](https://www.exploit-db.com/google-hacking-database), [ATT&CK](https://attack.mitre.org/), [D3FEND](https://d3fend.mitre.org/about/), [OWASP Top 10](https://owasp.org/Top10/)
 * Scraping
 
+## Day 3
+* Binary, Hexadecimal
+* ASCII
+* Hex editors & other instances where you encounter hex
+* [TryHackMe.com](https://www.tryhackme.com)
+
+
+## Day 4
+* Blockchain technical details
+* Reading other programming languages (Rust/Go) 
+
 
 # Nick TBD
 
