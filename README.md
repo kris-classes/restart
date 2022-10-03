@@ -245,6 +245,7 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 
 
 
+# Not covered yet
 # Nick TBD
 
 |                  Domain | Topic                             | Items                                | Note                                                                                                                                                                                           | Lab                                                                                                               | Covered                          |
