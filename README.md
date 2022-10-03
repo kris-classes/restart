@@ -236,6 +236,15 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Reading other programming languages (Rust/Go) 
 
 
+# Week 6
+
+## Day 1
+* Subnetting
+* [Subnet Calculator 1](https://jodies.de/ipcalc)
+* [Subnet Calculator 2](https://www.site24x7.com/tools/ipv4-subnetcalculator.html)
+
+
+
 # Nick TBD
 
 |                  Domain | Topic                             | Items                                | Note                                                                                                                                                                                           | Lab                                                                                                               | Covered                          |
