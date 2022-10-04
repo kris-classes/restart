@@ -243,6 +243,10 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * [Subnet Calculator 1](https://jodies.de/ipcalc)
 * [Subnet Calculator 2](https://www.site24x7.com/tools/ipv4-subnetcalculator.html)
 
+## Day 2
+* More EC2, some VPC
+* IaaS, PaaS, SaaS, etc
+* More networking labs
 
 
 # Not covered yet
