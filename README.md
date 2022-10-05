@@ -248,6 +248,9 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * IaaS, PaaS, SaaS, etc
 * More networking labs
 
+## Day 3
+* More EC2
+
 
 # Not covered yet
 # Nick TBD
