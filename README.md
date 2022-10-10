@@ -251,6 +251,23 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 ## Day 3
 * More EC2
 
+## Day 4
+* More Cryptography Basics
+* IAM Basics
+* EBS (Elastic Block Store) & File system basics
+
+## Day 5
+* RDS
+* SQL Basics
+
+# Week 7
+## Day 1
+* More RDS
+* Docker
+* Single-Page Application Basics
+* Base64 Encoding
+* Cookie vs JWT Basics
+
 
 # Not covered yet
 # Nick TBD
