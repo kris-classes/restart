@@ -268,6 +268,9 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Base64 Encoding
 * Cookie vs JWT Basics
 
+## Day 2
+* More Docker
+
 
 # Not covered yet
 # Nick TBD
