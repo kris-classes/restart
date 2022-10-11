@@ -270,6 +270,7 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 
 ## Day 2
 * More Docker
+* [redis](https://redis.io/)
 
 
 # Not covered yet
