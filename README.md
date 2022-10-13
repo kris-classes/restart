@@ -275,9 +275,14 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 ## Day 3
 * More Docker
 
+## Day 4
+* [`awscli`](https://github.com/aws/aws-cli)
+* [`boto3`](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
+* S3 (Simple Storage Service)
+* [AWS SDK Examples](https://github.com/awsdocs/aws-doc-sdk-examples)
 
-# Not covered yet
-# Nick TBD
+
+# Cloud Practitioner Stuff (to be covered in more detail)
 
 |                  Domain | Topic                             | Items                                | Note                                                                                                                                                                                           | Lab                                                                                                               | Covered                          |
 |------------------------:|-----------------------------------|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------|
