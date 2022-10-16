@@ -281,6 +281,8 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * S3 (Simple Storage Service)
 * [AWS SDK Examples](https://github.com/awsdocs/aws-doc-sdk-examples)
 
+## Day 5
+* Revision
 
 # Cloud Practitioner Stuff (to be covered in more detail)
 
