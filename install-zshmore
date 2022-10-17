@@ -1,0 +1,69 @@
+#!/bin/bash
+# automate the installation of packages
+
+# copy and paste below into command line to run
+#curl https://raw.githubusercontent.com/kris-classes/restart/main/install-zshmore | sh && exec zsh -l &
+
+
+##TODO: fix bug (below)
+# sh -c "$(curl https://raw.githubusercontent.com/kris-classes/restart/main/install-zshmore)"
+#bug is fixed on line 5
+##
+
+
+#install apel
+sudo amazon-linux-extras install epel
+
+#install packages
+for package in cowsay zsh jq sl gcc util-linux-user git automake libevent-devel bison ncurses-devel htop whois
+do
+	sudo yum install -y  $package
+	echo $package was installed | cowsay
+done
+
+#install tldr, fastapi, uvicorn, thefuck
+sudo pip3 install tldr uvicorn fastapi thefuck
+
+#install thefuck
+#sudo pip3 install thefuck
+
+#install rust, with automated Y for default
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs > installrust.sh
+chmod +x installrust.sh
+./installrust.sh -y
+echo Rust was installed | cowsay
+
+#install broot
+mkdir $HOME/bin
+curl https://dystroy.org/broot/download/x86_64-unknown-linux-gnu/broot > $HOME/bin/broot
+chmod +x $HOME/bin/broot
+
+#install ohmyzsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+echo ohmyzsh was installed | cowsay
+
+#get .zshrc file
+curl https://raw.githubusercontent.com/kris-classes/restart/main/tia_zshrc > $HOME/.zshrc
+echo retrieved .zshrc | cowsay
+
+#install zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+echo zsh-autosuggestions was installed | cowsay
+
+#install tmux
+git clone https://github.com/tmux/tmux.git
+cd tmux
+sh autogen.sh
+./configure
+make
+sudo make install
+
+#install ohmytmux
+cd $HOME
+git clone https://github.com/gpakosz/.tmux.git
+ln -s -f .tmux/.tmux.conf
+cp .tmux/.tmux.conf.local .
+
+# This is changing the default shell to zsh.
+sudo chsh -s $(which zsh) $(whoami)
+exec zsh -l
