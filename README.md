@@ -292,6 +292,8 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * [Faker](https://github.com/joke2k/faker/)
 * ElastiCache w/ Redis
 * [Redis-Py](https://redis-py.readthedocs.io/en/stable/)
+* [SQLite Sample Database - Sakila Rental](https://github.com/krp/sakila-sqlite)
+* [SQLite Browser](https://sqlitebrowser.org/)
 
 # Cloud Practitioner Stuff (to be covered in more detail)
 
