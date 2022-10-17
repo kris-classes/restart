@@ -284,6 +284,15 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 ## Day 5
 * Revision
 
+# Week 8
+
+## Day 1
+* [AWS SkillBuilder - Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
+* [AWS SkillBuilder - Cloud Quest](https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner)
+* [Faker](https://github.com/joke2k/faker/)
+* ElastiCache w/ Redis
+* [Redis-Py](https://redis-py.readthedocs.io/en/stable/)
+
 # Cloud Practitioner Stuff (to be covered in more detail)
 
 |                  Domain | Topic                             | Items                                | Note                                                                                                                                                                                           | Lab                                                                                                               | Covered                          |
