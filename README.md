@@ -295,6 +295,11 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * [SQLite Sample Database - Sakila Rental](https://github.com/krp/sakila-sqlite)
 * [SQLite Browser](https://sqlitebrowser.org/)
 
+## Day 2
+* More SQL
+* Industry Meeting
+* [Python's sqlite3 Module](https://pymotw.com/3/sqlite3/index.html)
+
 # Cloud Practitioner Stuff (to be covered in more detail)
 
 |                  Domain | Topic                             | Items                                | Note                                                                                                                                                                                           | Lab                                                                                                               | Covered                          |
