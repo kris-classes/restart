@@ -300,6 +300,13 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Industry Meeting
 * [Python's sqlite3 Module](https://pymotw.com/3/sqlite3/index.html)
 
+## Day 3
+* Unit Testing with `pytest`
+* Basics of Algorithms & Data Structures
+* Working with SQLite databases with Python's `sqlite3` module.
+
+
+
 # Cloud Practitioner Stuff (to be covered in more detail)
 
 |                  Domain | Topic                             | Items                                | Note                                                                                                                                                                                           | Lab                                                                                                               | Covered                          |
