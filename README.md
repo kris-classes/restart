@@ -48,7 +48,7 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * [devaslife](https://www.youtube.com/c/devaslife)
 * [Fireship](https://www.youtube.com/c/Fireship)
 * [IppSec](https://www.youtube.com/c/ippsec)
-* [NahamSec](https://www.youtube.com/c/Nahamsec]
+* [NahamSec](https://www.youtube.com/c/Nahamsec)
 * [JohnHammond](https://www.youtube.com/c/JohnHammond010)
 * [BillBuchanan](https://www.youtube.com/c/BillBuchanan)
 * [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
