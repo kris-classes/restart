@@ -305,6 +305,9 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Basics of Algorithms & Data Structures
 * Working with SQLite databases with Python's `sqlite3` module.
 
+## Day 4
+* Learning platforms: [CodeWars](https://www.codewars.com) & [HackTheBox](https://www.hackthebox.com)
+* More Databases (Labs 268-273)
 
 
 # Cloud Practitioner Stuff (to be covered in more detail)
