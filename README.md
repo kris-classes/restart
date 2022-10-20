@@ -34,6 +34,27 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 - [Install Python for Window - always tick Add Python to PATH option](https://www.python.org/downloads/)
 - [Install Python for Mac - best option is to use Homebrew aka `brew` command line](https://docs.python-guide.org/starting/install3/osx/)
 
+# YouTube Channel Recommendations
+* [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
+* [Computerphile](https://www.youtube.com/user/Computerphile)
+* [Socratica](https://www.youtube.com/c/Socratica)
+* [Harvard CS50](https://www.youtube.com/c/cs50)
+* [Adrian Cantrill](https://www.youtube.com/c/LearnCantrill)
+* [Theo Browne](https://www.youtube.com/c/TheoBrowne1017)
+* [David Bombal](https://www.youtube.com/c/DavidBombal)
+* [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
+* [TechWorld with Nana](https://www.youtube.com/c/TechWorldwithNana)
+* [The Coding Train](https://www.youtube.com/c/TheCodingTrain)
+* [devaslife](https://www.youtube.com/c/devaslife)
+* [Fireship](https://www.youtube.com/c/Fireship)
+* [IppSec](https://www.youtube.com/c/ippsec)
+* [NahamSec](https://www.youtube.com/c/Nahamsec]
+* [JohnHammond](https://www.youtube.com/c/JohnHammond010)
+* [BillBuchanan](https://www.youtube.com/c/BillBuchanan)
+* [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
+* [MarcusHutchins](https://www.youtube.com/c/MalwareTechBlog)
+* [STÖK](https://www.youtube.com/c/STOKfredrik)
+
 # Week 1
 
 ## Core Topics
