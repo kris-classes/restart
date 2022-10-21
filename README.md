@@ -330,6 +330,11 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Learning platforms: [CodeWars](https://www.codewars.com) & [HackTheBox](https://www.hackthebox.com)
 * More Databases (Labs 268-273)
 
+## Day 5
+* Certification Pathways
+* Exam Vouchers
+* Frontend & NodeJS
+
 
 # Cloud Practitioner Stuff (to be covered in more detail)
 
