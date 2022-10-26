@@ -336,6 +336,27 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Frontend & NodeJS
 
 
+# Week 9
+
+## Day 1
+* Assignment Help
+* System Design
+* Troubleshooting/Debugging the Deployment Script Lab Challenge
+
+## Day 2
+* CloudFront & CDNs
+* CAP Theorem basics
+* [Agile](https://www.atlassian.com/agile)
+* Application & Network Load Balancers
+* Load Balancer Lab
+
+### Supplementary
+* [Cloudflare & nginx' Architectural issues](https://www.youtube.com/watch?v=QbOAHkaFU6w)
+* [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
+* [Latency Numbers that Programmers Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
+* [LinkedIn Skill Assessment Quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/) - Only use to learn what you don't know.
+* [Next.js Conference - Future of the Web / Edge computing](https://www.youtube.com/watch?v=HlXLVb3QCvQ)
+
 # Cloud Practitioner Stuff (to be covered in more detail)
 
 |                  Domain | Topic                             | Items                                | Note                                                                                                                                                                                           | Lab                                                                                                               | Covered                          |
