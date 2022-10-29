@@ -338,6 +338,8 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 
 # Week 9
 
+## No Monday Class - Labour Day
+
 ## Day 1
 * Assignment Help
 * System Design
@@ -349,6 +351,19 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * [Agile](https://www.atlassian.com/agile)
 * Application & Network Load Balancers
 * Load Balancer Lab
+
+## Day 3
+* Scott Hanselman talk
+* Domain name registration
+* Elastic Load Balancing (ELB) & Load Balancer types
+* Auto-Scaling Groups & Lab
+* netcat (`nc`) basics
+* Cost Estimation with the [Pricing Calculator](https://calculator.aws)
+
+## Day 4
+* docker compose
+* [awesome-compose](https://github.com/docker/awesome-compose)
+* Some [React](https://reactjs.org/) & [Next.js](https://nextjs.org/)Basics
 
 ### Supplementary
 * [Cloudflare & nginx' Architectural issues](https://www.youtube.com/watch?v=QbOAHkaFU6w)
