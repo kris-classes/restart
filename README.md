@@ -372,6 +372,15 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * [LinkedIn Skill Assessment Quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/) - Only use to learn what you don't know.
 * [Next.js Conference - Future of the Web / Edge computing](https://www.youtube.com/watch?v=HlXLVb3QCvQ)
 
+
+# Week 10
+
+## Day 1
+* Lambda
+* More SNS
+* More S3
+
+
 # Cloud Practitioner Stuff (to be covered in more detail)
 
 |                  Domain | Topic                             | Items                                | Note                                                                                                                                                                                           | Lab                                                                                                               | Covered |
