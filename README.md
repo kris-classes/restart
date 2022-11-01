@@ -380,6 +380,11 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * More SNS
 * More S3
 
+## Day 2
+* More Lambda, S3 & SNS
+* [LibHunt](https://www.libhunt.com/)
+* [Thoughtworks Tech Radar](https://www.thoughtworks.com/radar)
+
 
 # Cloud Practitioner Stuff (to be covered in more detail)
 
