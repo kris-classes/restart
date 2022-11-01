@@ -2,7 +2,7 @@
 # automate the installation of packages
 
 # copy and paste below into command line to run
-#curl https://raw.githubusercontent.com/kris-classes/restart/main/install-zshmore | sh && exec zsh -l
+#curl https://raw.githubusercontent.com/kris-classes/restart/main/install-zshmore | sh && exec zsh -l &
 
 
 ##TODO: fix bug (below)
@@ -21,8 +21,8 @@ do
 	echo $package was installed | cowsay
 done
 
-#install tldr
-sudo pip3 install tldr
+#install tldr, fastapi, uvicorn, thefuck
+sudo pip3 install tldr uvicorn fastapi thefuck
 
 #install thefuck
 #sudo pip3 install thefuck
