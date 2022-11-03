@@ -386,6 +386,18 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * [Thoughtworks Tech Radar](https://www.thoughtworks.com/radar)
 
 
+## Day 3
+* [Amazon Lex](https://docs.aws.amazon.com/lexv2/latest/dg/what-is.html)
+* Code review of several Lambda blueprints
+* [Python Revision & Datetime objects](https://www.pythoncheatsheet.org/)
+* [SQS](https://aws.amazon.com/sqs/)
+
+## Day 4
+
+* ChatOps Basics (coding a simple Discord bot that uses boto3 and DynamoDB)
+* DynamoDB Basics
+* Preventing RSI / back pain / etc in tech jobs
+
 # Cloud Practitioner Stuff (to be covered in more detail)
 
 |                  Domain | Topic                             | Items                                | Note                                                                                                                                                                                           | Lab                                                                                                               | Covered |
