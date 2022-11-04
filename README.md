@@ -398,6 +398,14 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * DynamoDB Basics
 * Preventing RSI / back pain / etc in tech jobs
 
+## Day 5
+
+* [S3 Storage Classes](https://aws.amazon.com/s3/storage-classes/)
+* More software licensing & software patents
+* [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started) (Basics)
+* Python [typing](https://docs.python.org/3/library/typing.html) basics & [pydantic](https://pydantic-docs.helpmanual.io/)
+* More DNS Record Types (AAAA, NS, MX, TXT) [Pic](https://en.wikipedia.org/wiki/List_of_DNS_record_types#/media/File:All_active_dns_record_types.png) 
+
 # Cloud Practitioner Stuff (to be covered in more detail)
 
 |                  Domain | Topic                             | Items                                | Note                                                                                                                                                                                           | Lab                                                                                                               | Covered |
