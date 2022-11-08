@@ -471,7 +471,7 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 |         | Add audio transcript                         | https://go.aws/3Upb89G | Very easy    | 1 hour max                | AWS Transcribe  | Do this in AWS Console, add more context if you can                                     |
 |         | Protect your S3 data                         | https://go.aws/3Tkm8Uo | Intermediate | 1-2 hours                 | AWS S3          | Do this in AWS Console, add more context if you can                                     |
 |         | Using Docker volume                          | https://bit.ly/3DUUkAa | Intermediate | 1-2 hours                 | Docker          |                                                                                         |
-
+|         | Getting started with Kubernetes              | https://bit.ly/3A0xo1z | Harder       | 2-4 hours                 | Kubernetes      |                                                                                         |
 
 ## Technical presentations:
 * Your name: Topic/Service goes here
