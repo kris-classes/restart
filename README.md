@@ -454,6 +454,24 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Block storage, file storage and object storage
 * CDN
 
+# Demonstration topics
+
+| By whom | Ideas                                        | Links                  | Difficulty   | Time estimated to prepare | Tools           | Notes                                                                                   |
+|---------|----------------------------------------------|------------------------|--------------|---------------------------|-----------------|-----------------------------------------------------------------------------------------|
+|         | Create and Manage a Nonrelational Database   | https://go.aws/3UGYd2M | Easy         | 1 hour max                | AWS DynamoDB    | Don't use Cloud9, just get Sandbox environment keys                                     |
+|         | Extract video metadata                       | https://go.aws/3NNtw9L | Easy         | 1 hour max                | AWS Rekognition | Do this in AWS Console, add more context if you can                                     |
+|         | Analyze text context and sentiment           | https://go.aws/3DTiuLG | Easy         | 1 hour max                | AWS Comprehend  | Do this in AWS Console, add more context if you can                                     |
+|         | Translate between languages                  | https://go.aws/3teZrq1 | Very easy    | 1 hour max                | AWS Translate   | Do this in AWS Console, add more context if you can                                     |
+|         | Demonstrate SNS Fanout to SQS architecture   | https://go.aws/3DUR5Zw | Intermediate | 1-2 hours                 | AWS SNS,SQS     | Do this in AWS Console, add more context if you can                                     |
+|         | Use SQS in real application                  | https://go.aws/3TkTzpY | Intermediate | 2-3 hours                 | AWS SQS         | Additionally, you need to get Sandbox keys, and use boto3 to consume SQS queue messages |
+|         | Demonstrate building application with Lambda | https://go.aws/3DOKznj | Intermediate | 1-2 hours                 | AWS Lambda      | Do this in AWS Console, demonstrate any kind of code that you write yourself            |
+|         | Use Textract to scan text out of images      | https://go.aws/3tcN3qz | Very easy    | 1 hour max                | AWS Textract    | Do this in AWS Console, add more context if you can                                     |
+|         | Detect and analyze faces                     | https://go.aws/3WPVnKK | Very easy    | 1 hour max                | AWS Rekognition | Do this in AWS Console, add more context if you can                                     |
+|         | Filter messages using SNS Topic              | https://go.aws/3WLihml | Intermediate | 1-2 hours                 | AWS SNS         | Do this in AWS Console, add more context if you can                                     |
+|         | Add audio transcript                         | https://go.aws/3Upb89G | Very easy    | 1 hour max                | AWS Transcribe  | Do this in AWS Console, add more context if you can                                     |
+|         | Protect your S3 data                         | https://go.aws/3Tkm8Uo | Intermediate | 1-2 hours                 | AWS S3          | Do this in AWS Console, add more context if you can                                     |
+|         | Using Docker volume                          | https://bit.ly/3DUUkAa | Intermediate | 1-2 hours                 | Docker          |                                                                                         |
+
 # Concepts book - to be covered
 ## Others
 * VMs vs. Containerization
