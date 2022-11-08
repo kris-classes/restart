@@ -406,6 +406,17 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Python [typing](https://docs.python.org/3/library/typing.html) basics & [pydantic](https://pydantic-docs.helpmanual.io/)
 * More DNS Record Types (AAAA, NS, MX, TXT) [Pic](https://en.wikipedia.org/wiki/List_of_DNS_record_types#/media/File:All_active_dns_record_types.png) 
 
+
+# Week 11
+
+## Day 1
+* CloudFront
+* CloudTrail & Athena
+
+## Day 2
+* Revision: Docker, Databases, Subnetting, Shell scripting, `hashlib`
+
+
 # Cloud Practitioner Stuff (to be covered in more detail)
 
 |                  Domain | Topic                             | Items                                | Note                                                                                                                                                                                           | Lab                                                                                                               | Covered |
