@@ -458,7 +458,7 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 
 | By whom | Ideas                                        | Links                  | Difficulty   | Time estimated to prepare | Tools           | Notes                                                                                   |
 |---------|----------------------------------------------|------------------------|--------------|---------------------------|-----------------|-----------------------------------------------------------------------------------------|
-|         | Create and Manage a Nonrelational Database   | https://go.aws/3UGYd2M | Easy         | 1 hour max                | AWS DynamoDB    | Don't use Cloud9, just get Sandbox environment keys                                     |
+|Kawana         | Create and Manage a Nonrelational Database   | https://go.aws/3UGYd2M | Easy         | 1 hour max                | AWS DynamoDB    | Don't use Cloud9, just get Sandbox environment keys                                     |
 |         | Extract video metadata                       | https://go.aws/3NNtw9L | Easy         | 1 hour max                | AWS Rekognition | Do this in AWS Console, add more context if you can                                     |
 |         | Analyze text context and sentiment           | https://go.aws/3DTiuLG | Easy         | 1 hour max                | AWS Comprehend  | Do this in AWS Console, add more context if you can                                     |
 |         | Translate between languages                  | https://go.aws/3teZrq1 | Very easy    | 1 hour max                | AWS Translate   | Do this in AWS Console, add more context if you can                                     |
