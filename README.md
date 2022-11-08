@@ -469,7 +469,7 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 |         | Detect and analyze faces                     | https://go.aws/3WPVnKK | Very easy    | 1 hour max                | AWS Rekognition | Do this in AWS Console, add more context if you can                                     |
 |         | Filter messages using SNS Topic              | https://go.aws/3WLihml | Intermediate | 1-2 hours                 | AWS SNS         | Do this in AWS Console, add more context if you can                                     |
 |         | Add audio transcript                         | https://go.aws/3Upb89G | Very easy    | 1 hour max                | AWS Transcribe  | Do this in AWS Console, add more context if you can                                     |
-|         | Protect your S3 data                         | https://go.aws/3Tkm8Uo | Intermediate | 1-2 hours                 | AWS S3          | Do this in AWS Console, add more context if you can                                     |
+|      Marcelle   | Protect your S3 data                         | https://go.aws/3Tkm8Uo | Intermediate | 1-2 hours                 | AWS S3          | Do this in AWS Console, add more context if you can                                     |
 |Gracie         | Using Docker volume                          | https://bit.ly/3DUUkAa | Intermediate | 1-2 hours                 | Docker          |                                                                                         |
 |         | Getting started with Kubernetes              | https://bit.ly/3A0xo1z | Harder       | 2-4 hours                 | Kubernetes      |                                                                                         |
 
