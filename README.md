@@ -416,6 +416,17 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 ## Day 2
 * Revision: Docker, Databases, Subnetting, Shell scripting, `hashlib`
 
+## Day 3
+* VPC, Subnets, Gateways
+* FastAPI revision
+* `fetch()`
+
+## Day 4
+* Hashing & Checksums Revision
+* Hex, File formats
+* Unicode / utf-8
+* Remote Procedure Call
+* Machine Learning Basics (with Huggingface's Transformers library)
 
 # Cloud Practitioner Stuff (to be covered in more detail)
 
