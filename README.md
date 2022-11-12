@@ -428,6 +428,12 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Remote Procedure Call
 * Machine Learning Basics (with Huggingface's Transformers library)
 
+## Day 5
+* Subnetting Revision
+* Socket programming
+* Concurrency (using Threads) with Python
+
+
 # Cloud Practitioner Stuff (to be covered in more detail)
 
 |                  Domain | Topic                             | Items                                | Note                                                                                                                                                                                           | Lab                                                                                                               | Covered |
