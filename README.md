@@ -489,6 +489,8 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 |      Marcelle   | Protect your S3 data                         | https://go.aws/3Tkm8Uo | Intermediate | 1-2 hours                 | AWS S3          | Do this in AWS Console, add more context if you can                                     |
 |Gracie         | Using Docker volume                          | https://bit.ly/3DUUkAa | Intermediate | 1-2 hours                 | Docker          |                                                                                         |
 |         | Getting started with Kubernetes              | https://bit.ly/3A0xo1z | Harder       | 2-4 hours                 | Kubernetes      |                                                                                         |
+| Brandon | S3 Data Integrity with Checksum              | https://go.aws/3TH7C9G | Intermediate | 1-2 hours                 | AWS S3          |                                                                                         |
+
 
 ## Technical presentations:
 * Your name: Topic/Service goes here
