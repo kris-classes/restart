@@ -490,6 +490,7 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 |Gracie         | Using Docker volume                          | https://bit.ly/3DUUkAa | Intermediate | 1-2 hours                 | Docker          |                                                                                         |
 |         | Getting started with Kubernetes              | https://bit.ly/3A0xo1z | Harder       | 2-4 hours                 | Kubernetes      |                                                                                         |
 | Brandon | S3 Data Integrity with Checksum              | https://go.aws/3TH7C9G | Intermediate | 1-2 hours                 | AWS S3          |                                                                                         |
+| Sisi    | Add privacy to your transcriptions           | https://go.aws/3X0NC4E | Intermediate | 1-2 hours                 | AWS Transcribe, S3 |                                                                                         |
 
 
 ## Technical presentations:
