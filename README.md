@@ -494,6 +494,8 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 | Xavier   | SageMaker demonstration                      |                        |              |                           |                    |                                                                                         |
 | Jayam    | Getting started with Athena                  |                        |              |                           |                    |                                                                                         |
 | Victoria | Getting started with Elastic Transcoder      |                        |              |                           |                    |                                                                                         |
+| Luke | Serverless analytics in Game Design | https://github.com/aws-samples/serverless-games-on-aws/tree/master/Serverless%20Data%20Analytics%20Lab| ? | ? | ? |
+
 
 ## Technical presentations:
 * Your name: Topic/Service goes here
