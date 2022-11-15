@@ -491,9 +491,9 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 | Benke   | Getting started with Kubernetes              | https://bit.ly/3A0xo1z | Harder       | 2-4 hours                 | Kubernetes      |                                                                                         |
 | Brandon | S3 Data Integrity with Checksum              | https://go.aws/3TH7C9G | Intermediate | 1-2 hours                 | AWS S3          |                                                                                         |
 | Sisi    | Add privacy to your transcriptions           | https://go.aws/3X0NC4E | Intermediate | 1-2 hours                 | AWS Transcribe, S3 |                                                                                         |
-| Xavier   | SageMaker demonstration                      |                        |              |                           |                    |                                                                                         |
+| Xavier   | SageMaker demonstration                      | https://go.aws/3UANlDZ  | Intermediate | 1-2 hours  | AWS SageMaker |                                                                                         |
 | Jayam    | Getting started with Athena                  |   https://go.aws/3Oax463    |  Intermediate  |  1-2 hours |  Amazon Athena  |                                                                                         |
-| Victoria | Getting started with Elastic Transcoder      |                        |              |                           |                    |                                                                                         |
+| Victoria | Getting started with Elastic Transcoder      | https://bit.ly/3hwtdnB  |  Easy |  1 hour max  | AWS Elastic Transcoder |                                                                                         |
 | Luke | Serverless analytics in Game Design | https://bit.ly/3g3HasS | ? | ? | ? |
 
 
