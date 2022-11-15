@@ -482,7 +482,7 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 |Prerana         | Analyze text context and sentiment           | https://go.aws/3DTiuLG | Easy         | 1 hour max                | AWS Comprehend  | Do this in AWS Console, add more context if you can                                     |
 |Will         | Translate between languages                  | https://go.aws/3teZrq1 | Very easy    | 1 hour max                | AWS Translate   | Do this in AWS Console, add more context if you can                                     |
 |Tia      | Demonstrate SNS Fanout to SQS architecture   | https://go.aws/3DUR5Zw | Intermediate | 1-2 hours                 | AWS SNS,SQS     | Do this in AWS Console, add more context if you can                                     |
-|    | Use SQS in real application                  | https://go.aws/3TkTzpY | Intermediate | 2-3 hours                 | AWS SQS         | Additionally, you need to get Sandbox keys, and use boto3 to consume SQS queue messages |
+| Luke   | Use SQS in real application                  | https://go.aws/3TkTzpY | Intermediate | 2-3 hours                 | AWS SQS         | Additionally, you need to get Sandbox keys, and use boto3 to consume SQS queue messages |
 | Ryan        | Demonstrate building application with Lambda | https://go.aws/3DOKznj | Intermediate | 1-2 hours                 | AWS Lambda      | Do this in AWS Console, demonstrate any kind of code that you write yourself            |
 | Anuj        | Use Textract to scan text out of images      | https://go.aws/3tcN3qz | Very easy    | 1 hour max                | AWS Textract    | Do this in AWS Console, add more context if you can                                     |
 | Stacey        | Detect and analyze faces                     | https://go.aws/3WPVnKK | Very easy    | 1 hour max                | AWS Rekognition | Do this in AWS Console, add more context if you can                                     |
@@ -496,7 +496,7 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 | Xavier   | SageMaker demonstration                      | https://go.aws/3UANlDZ  | Intermediate | 1-2 hours  | AWS SageMaker |                                                                                         |
 | Jayam    | Getting started with Athena                  |   https://go.aws/3Oax463    |  Intermediate  |  1-2 hours |  Amazon Athena  |                                                                                         |
 | Victoria | Getting started with Elastic Transcoder      | https://bit.ly/3hwtdnB  |  Easy |  1 hour max  | AWS Elastic Transcoder |                                                                                         |
-| Luke | Serverless analytics in Game Design | https://bit.ly/3g3HasS | ? | ? | ? |
+| Quentin | Label data for ML with SageMaker | https://go.aws/3g42LS7 | Intermedaite | 1-2 hours | AWS SageMaker |
 
 
 ## Technical presentations:
