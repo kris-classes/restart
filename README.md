@@ -492,9 +492,9 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 | Brandon | S3 Data Integrity with Checksum              | https://go.aws/3TH7C9G | Intermediate | 1-2 hours                 | AWS S3          |                                                                                         |
 | Sisi    | Add privacy to your transcriptions           | https://go.aws/3X0NC4E | Intermediate | 1-2 hours                 | AWS Transcribe, S3 |                                                                                         |
 | Xavier   | SageMaker demonstration                      |                        |              |                           |                    |                                                                                         |
-| Jayam    | Getting started with Athena                  |                        |              |                           |                    |                                                                                         |
+| Jayam    | Getting started with Athena                  |   https://go.aws/3Oax463    |  Intermediate  |  1-2 hours |  Amazon Athena  |                                                                                         |
 | Victoria | Getting started with Elastic Transcoder      |                        |              |                           |                    |                                                                                         |
-| Luke | Serverless analytics in Game Design | https://github.com/aws-samples/serverless-games-on-aws/tree/master/Serverless%20Data%20Analytics%20Lab| ? | ? | ? |
+| Luke | Serverless analytics in Game Design | https://bit.ly/3g3HasS | ? | ? | ? |
 
 
 ## Technical presentations:
