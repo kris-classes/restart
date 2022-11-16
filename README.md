@@ -496,8 +496,8 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 | Xavier   | SageMaker demonstration                      | https://go.aws/3UANlDZ  | Intermediate | 1-2 hours  | AWS SageMaker |                                                                                         |
 | Jayam    | Getting started with Athena                  |   https://go.aws/3Oax463    |  Intermediate  |  1-2 hours |  Amazon Athena  |                                                                                         |
 | Victoria | Getting started with Elastic Transcoder      | https://bit.ly/3hwtdnB  |  Easy |  1 hour max  | AWS Elastic Transcoder |                                                                                         |
-| Quentin | Label data for ML with SageMaker | https://go.aws/3g42LS7 | Intermedaite | 1-2 hours | AWS SageMaker |
-
+| Quentin | Label data for ML with SageMaker | https://go.aws/3g42LS7 | Intermedaite | 1-2 hours | AWS SageMaker | |
+| Levi | Filter Messages Published to Topics with Amazon SNS and Amazon SQS | https://go.aws/3ga9euO | Intermedaite | 1-2 hours | AWS SNS, SQS | |
 
 ## Technical presentations:
 * Your name: Topic/Service goes here
