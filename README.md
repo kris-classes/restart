@@ -433,8 +433,25 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Socket programming
 * Concurrency (using Threads) with Python
 
+# Week 12
 
-# Cloud Practitioner Stuff (to be covered in more detail)
+## Day 1
+* Revision
+
+## Day 2
+* Test practice & assignment Help
+
+## Day 3
+* More test practice & assignment help
+
+## Day 4
+* Test
+* Assignment deadline
+
+## Day 5
+* Presentations
+* Congratulations!
+
 
 
 |                  Domain | Topic                             | Items                                | Note                                                                                                                                                                                           | Lab                                                                                                               | Covered |
@@ -469,9 +486,6 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 |                         |                                   | Organization                         | o Organization Units, o Ways to structure OU, o Consolidated billing                                                                                                                           | Go see the AWS Console                                                                                            | covered |
 
 
-* What is IaaS/PaaS/SaaS? 
-* Block storage, file storage and object storage
-* CDN
 
 # Demonstration topics
 
