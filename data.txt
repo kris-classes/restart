@@ -2,3 +2,4 @@ fruit
 hello world
 what is your name
 this is a txt file
+hello
