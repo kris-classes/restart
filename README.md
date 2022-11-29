@@ -526,3 +526,8 @@ Student Expectations: ~5 hours of lectures and ~3 hours of homework per day.
 * Software deployment strategies
 * Design secure APIs
 * DB Caching
+
+
+
+# Weeks 12-16
+* Internships & Projects
